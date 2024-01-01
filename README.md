@@ -47,13 +47,13 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Vedellan"><img src="https://avatars.githubusercontent.com/u/61517039?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="https://github.com/miniron-v"><img src="https://avatars.githubusercontent.com/u/61517039?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/Redish03"><img src="https://avatars.githubusercontent.com/u/98575563?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/2secondag"><img src="https://avatars.githubusercontent.com/u/128296206?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/bomik0221"><img src="https://avatars.githubusercontent.com/u/142525778?v=4" width="100px;" alt=""/>
   </tr>
     <tr>
-    <td align="center"><a href="https://github.com/Vedellan" title="Code">Vedellan</a></td>
+    <td align="center"><a href="https://github.com/miniron-v" title="Code">miniron-v</a></td>
     <td align="center"><a href="https://github.com/Redish03" title="Code">Redish03</a></td>
     <td align="center"><a href="https://github.com/2secondag" title="Code">2secondag</a></td>
     <td align="center"><a href="https://github.com/bomik0221" title="Code">bomik0221</a></td>
@@ -88,7 +88,7 @@
 
 ```
 스터디 회차수-이름
-ex) 1-Vedellan
+ex) 1-miniron-v
 ```
 
 <br>
