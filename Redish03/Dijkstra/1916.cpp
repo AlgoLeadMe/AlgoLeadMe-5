@@ -5,10 +5,10 @@
 
 using namespace std;
 
-int N, E;
+int N, M;
 int start_node, end_node;
 int distance_value[1001];
-vector<pair<int, int>> node[100001];
+vector<pair<int, int>> bus[100001];
 
 void Dijkstra()
 {
@@ -17,6 +17,7 @@ void Dijkstra()
         distance_value[i] = 999999999;
     }
 
+    // 시작 노드는 거리가 0이다.
     distance_value[start_node] = 0;
     priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
 
@@ -24,22 +25,23 @@ void Dijkstra()
 
     while (!pq.empty())
     {
-        int x = pq.top().first;
-        int u = pq.top().second;
+        int curdist = pq.top().first;
+        int cur_node = pq.top().second;
 
         pq.pop();
 
-        if (distance_value[u] < x)
+        // 만약 현재거리가 최솟값보다 크다면 (계산 횟수 줄이기 용도)
+        if (distance_value[cur_node] < curdist)
             continue;
-        for (int i = 0; i < node[u].size(); i++)
+        for (int i = 0; i < bus[cur_node].size(); i++)
         {
-            int next = node[u][i].first;
-            int cost = node[u][i].second;
+            int next_node = bus[cur_node][i].first;
+            int ncost = bus[cur_node][i].second;
 
-            if (x + cost < distance_value[next])
+            if (curdist + ncost < distance_value[next_node])
             {
-                distance_value[next] = x + cost;
-                pq.push({x + cost, next});
+                distance_value[next_node] = curdist + ncost;
+                pq.push({curdist + ncost, next_node});
             }
         }
     }
@@ -47,15 +49,21 @@ void Dijkstra()
 
 int main()
 {
-    cin >> N >> E;
+    cin >> N >> M;
 
-    for (int i = 0; i < E; i++)
+    for (int i = 0; i < M; i++)
     {
         int a, b, d;
         cin >> a >> b >> d;
 
-        node[a].push_back({b, d});
-        // node[b].push_back({a, d});
+        /*
+        문제에서는 a -> b로 이동하는 한 방향으로만 주어졌지만,
+        일반적인 경우에는 양방향 (a <-> b)로 주어지는 경우도
+        있어서 참고하면 좋을 것 같다.
+        */
+        bus[a].push_back({b, d});
+        // 양방향일때 다음을 추가해준다.
+        // bus[b].push_back({a, d});
     }
 
     cin >> start_node >> end_node;
