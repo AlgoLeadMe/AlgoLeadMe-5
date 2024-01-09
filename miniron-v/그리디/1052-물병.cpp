@@ -6,7 +6,7 @@ int main() {
 	int n, k;
 	std::cin >> n >> k;
 
-	if (k > n) {
+	if (k >= n) {
 		std::cout << 0;
 		return 0;
 	}
