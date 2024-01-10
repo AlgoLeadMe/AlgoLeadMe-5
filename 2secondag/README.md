@@ -6,6 +6,4 @@
 <<<<<<< Updated upstream
 | 2차시 | 2024.01.04 |  입출력  | [별 찍기 - 17 ] (https://www.acmicpc.net/problem/10992) | [#8](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/8)|
 =======
-| 2차시 | 2024.01.04 |  입출력  | [별 찍기 - 17 ] (https://www.acmicpc.net/problem/10992) | [#2](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/8)|
->>>>>>> Stashed changes
 ---
