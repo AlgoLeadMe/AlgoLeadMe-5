@@ -9,11 +9,6 @@ vector<int> crane;
 vector<int> box;
 int min_time = 0;
 
-// bool compare(int a, int b)
-// {
-//     return a > b;
-// }
-
 int main()
 {
     cin >> N;
@@ -33,17 +28,19 @@ int main()
         box.push_back(box_size);
     }
 
+    // crane 오름차순 정렬
     sort(crane.begin(), crane.end());
+    // box 오름차순 정렬
     sort(box.begin(), box.end());
 
-    // 예외 처리
+    // 모든 박스를 배로 옮길 수 없는 경우
+    // = 어떤 박스가 크레인의 최대 무게보다 더 무거운 경우
     if (crane[N - 1] < box[M - 1])
     {
         cout << -1;
         return 0;
     }
 
-    int idx = 0;
     while (!box.empty())
     {
         min_time++;
