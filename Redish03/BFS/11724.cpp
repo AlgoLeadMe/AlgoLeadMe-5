@@ -33,19 +33,23 @@ void bfs(int start)
     }
 }
 
-int main()
+void input()
 {
     cin >> N >> M;
 
     for (int i = 0; i < M; i++)
     {
-        // 2차원 배열에 트리 저장
         int a, b;
 
         cin >> a >> b;
         arr[a].push_back(b);
         arr[b].push_back(a);
     }
+}
+
+int main()
+{
+    input();
 
     for (int i = 1; i <= N; i++)
     {
