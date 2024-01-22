@@ -9,4 +9,5 @@
 | 5차시 | 2024.01.13 |  브루트포스  | [리모컨](https://www.acmicpc.net/problem/1107)  | [#20](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/20) |
 | 6차시 | 2024.01.16 |  DP  | [이친수](https://www.acmicpc.net/problem/2193)  | [#23](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/23) |
 | 7차시 | 2024.01.19 |  수학  | [소수의 연속합](https://www.acmicpc.net/problem/1644)  | [#26](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/26) |
+| 7차시 | 2024.01.22 |  그리디  | [합](https://www.acmicpc.net/problem/1132)  | [#32](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/32) |
 ---
