@@ -10,6 +10,6 @@
 | 6차시 | 2024.01.16 |      BFS      |      [연결 요소의 개수](https://www.acmicpc.net/problem/11724)      | [#6](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/25) |
 | 7차시 | 2024.01.19 |      DP       | [피보나치 함수](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/29) | [#7](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/29) |
 | 8차시 | 2024.01.22 |      DP       |      [구간 합 구하기4](https://www.acmicpc.net/problem/11659)       | [#8](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/33) |
-| 9차시 | 2024.01.25 | Back tracking |          [N과 M(7)](https://www.acmicpc.net/problem/15656)          | [#8](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/35) |
+| 9차시 | 2024.01.25 | Back tracking |          [N과 M(7)](https://www.acmicpc.net/problem/15656)          | [#9](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/35) |
 
 ---
