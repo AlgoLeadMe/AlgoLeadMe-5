@@ -10,5 +10,6 @@
 | 6차시 | 2024.01.16 |  문자열  | [FBI](https://www.acmicpc.net/problem/2857)  | [#22](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/22) |
 | 7차시 | 2024.01.19 |  수학  | [보물](https://www.acmicpc.net/problem/1026)  | [#27](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/27) |
 | 8차시 | 2024.01.22 |  그리디  | [반복](https://www.acmicpc.net/problem/19564)  | [#30](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/30) |
+| 9차시 | 2024.01.25 |  그리디  | [ATM](https://www.acmicpc.net/problem/11399)  | [#34](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/34) |
 ---
 
