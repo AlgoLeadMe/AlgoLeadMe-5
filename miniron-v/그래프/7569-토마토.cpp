@@ -19,7 +19,7 @@ bool promise(int i, int j, int k) {
 }
 
 // 모든 토마토가 익었는지 검사한다.
-bool isAllTomatoesRipe() {
+bool areAllTomatoesRipe() {
 	for (int i = 0; i < h; i++) {
 		for (int j = 0; j < m; j++) {
 			for (int k = 0; k < n; k++) {
@@ -81,7 +81,7 @@ int main() {
 		day++;
 	}
 
-	if (isAllTomatoesRipe() == false) {
+	if (areAllTomatoesRipe() == false) {
 		day = -1;
 	}
 
