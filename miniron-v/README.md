@@ -11,4 +11,5 @@
 | 7차시 | 2024.01.19 |  수학  | [소수의 연속합](https://www.acmicpc.net/problem/1644)  | [#26](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/26) |
 | 8차시 | 2024.01.22 |  그리디  | [합](https://www.acmicpc.net/problem/1132)  | [#32](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/32) |
 | 9차시 | 2024.01.25 |  그래프  | [토마토](https://www.acmicpc.net/problem/7576)  | [#36](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/36) |
+| 10차시 | 2024.01.28 |  그래프  | [토마토](https://www.acmicpc.net/problem/7569)  | [#38](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/38) |
 ---
