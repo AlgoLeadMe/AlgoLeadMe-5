@@ -9,4 +9,5 @@
 | 5차시 | 2024.01.13 |  입출력  | [영화감독 숌] (https://www.acmicpc.net/problem/1436) | [#18](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/18#event-11489600325)|
 | 6차시 | 2024.01.16 |  입출력  | [평균] (https://www.acmicpc.net/problem/1546) | [#24](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/24)|
 | 7차시 | 2024.01.19 |  입출력  | [팩토리얼 0의 개수] (https://www.acmicpc.net/problem/1676) | [#28](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/28)|
+| 8차시 | 2024.01.22 |  입출력  | [단어 정렬] (https://www.acmicpc.net/problem/1157) | [#31](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/31#event-11604202172)|
 ---
