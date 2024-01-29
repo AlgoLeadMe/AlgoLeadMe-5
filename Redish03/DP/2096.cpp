@@ -18,11 +18,14 @@ int main()
     int max_prev[3];
     int max_current[3];
 
+    // min_prev와 max_prev에 초깃값 저장
     for (int i = 0; i < 3; i++)
     {
         cin >> min_prev[i];
         max_prev[i] = min_prev[i];
     }
+
+    // N = 1 인 경우 바로 최댓값과 최솟값을 구하고 출력
     if (N == 1)
     {
         cout << max(max_prev[0], max(max_prev[1], max_prev[2])) << " ";
