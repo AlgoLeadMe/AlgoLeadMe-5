@@ -14,4 +14,5 @@
 | 10차시 | 2024.01.28 |  그래프  | [토마토](https://www.acmicpc.net/problem/7569)  | [#38](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/38) |
 | 번외 - 10 | 2024.01.30 |  그래프  | [하이퍼 토마토](https://www.acmicpc.net/problem/17114)  | [#42](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/42) |
 | 11차시 | 2024.01.31 |  브루트포스  | [감소하는 수](https://www.acmicpc.net/problem/1038)  | [#43](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/43) |
+| 12차시 | 2024.01.31 |  DP  | [점프 점프](https://www.acmicpc.net/problem/11060)  | [#48](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/48) |
 ---
