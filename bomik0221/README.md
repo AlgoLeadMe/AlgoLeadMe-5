@@ -12,5 +12,6 @@
 | 8차시 | 2024.01.22 |  그리디  | [반복](https://www.acmicpc.net/problem/19564)  | [#30](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/30) |
 | 9차시 | 2024.01.25 |  그리디  | [ATM](https://www.acmicpc.net/problem/11399)  | [#34](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/34) |
 | 10차시 | 2024.01.28 |  브루트포스  | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | [#40](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/40) |
+| 11차시 | 2024.01.31 |  재귀  | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)  | [#45](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/45) |
 ---
 
