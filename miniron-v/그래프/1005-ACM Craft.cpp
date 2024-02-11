@@ -63,12 +63,12 @@ void topologySort() {
 }
 
 int minCost() {
-	for (int k : sorted) {
-		min_cost[k] += cost[k];
+	for (int a : sorted) {
+		min_cost[a] += cost[a];
 
-		for (int i : graph[k]) {
-			if (min_cost[k] > min_cost[i]) {
-				min_cost[i] = min_cost[k];
+		for (int i : graph[a]) {
+			if (min_cost[a] > min_cost[i]) {
+				min_cost[i] = min_cost[a];
 			}
 		}
 	}
