@@ -14,5 +14,6 @@
 | 10차시 | 2024.01.28 |  브루트포스  | [일곱 난쟁이](https://www.acmicpc.net/problem/2309)  | [#40](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/40) |
 | 11차시 | 2024.01.31 |  재귀  | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)  | [#45](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/45) |
 | 12차시 | 2024.02.03 |  사칙연산  | [저작권](https://www.acmicpc.net/problem/2914)  | [#49](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/49) |
+| 13차시 | 2024.02.06 |  DFS  | [유기농 배추](https://www.acmicpc.net/problem/1012)  | [#51](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/51) |
 ---
 
