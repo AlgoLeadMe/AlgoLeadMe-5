@@ -13,6 +13,8 @@
 | 9차시  | 2024.01.25 | Back tracking |          [N과 M(7)](https://www.acmicpc.net/problem/15656)          | [#9](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/35)  |
 | 10차시 | 2024.01.28 |      DP       |          [내려가기](https://www.acmicpc.net/problem/2096)           | [#10](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/41) |
 | 11차시 | 2024.01.31 |    Greedy     |        [삼각형 만들기](https://www.acmicpc.net/problem/1448)        | [#11](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/44) |
-| 12차시 | 2024.02.03 |      DP       |      [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)      | [#12](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/44) |
+| 12차시 | 2024.02.03 |      DP       |      [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)      | [#12](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/47) |
+| 13차시 | 2024.02.06 | Back tracking |          [N과 M(9)](https://www.acmicpc.net/problem/15663)          | [#13](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/52) |
+| 14차시 | 2024.02.12 | KnapSack(DP)  |        [평범한 배낭](https://www.acmicpc.net/problem/12865)         | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/55) |
 
 ---
