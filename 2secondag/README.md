@@ -13,5 +13,3 @@
 | 9차시 | 2024.01.25 |  수학  | [달팽이는 올라가고 싶다] (https://www.acmicpc.net/problem/2869) | [#37](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/37#event-11619409875)|
 | 10차시 | 2024.01.28 |  구현  | [음계] (https://www.acmicpc.net/problem/2920) | [#39](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/39#event-11655882785)|
 | 11차시 | 2024.01.31 |  부루트포스 알고리즘  | [블랙잭] (https://www.acmicpc.net/problem/2798) | [#46]()|
-
----
