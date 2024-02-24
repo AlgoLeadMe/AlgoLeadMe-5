@@ -18,4 +18,5 @@
 | 13차시 | 2024.02.06 |  DP  | [퇴사 2](https://www.acmicpc.net/problem/15486)  | [#50](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/50) |
 | 14차시 | 2024.02.11 |  그래프, DP  | [ACM Craft](https://www.acmicpc.net/problem/1005)  | [#53](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/53) |
 | 15차시 | 2024.02.15 |  DP, 큰 수 연산  | [타일링](https://www.acmicpc.net/problem/1793)  | [#56](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/56) |
+| 16차시 | 2024.02.18 |  수학  | [합](https://www.acmicpc.net/problem/1081)  | [#61](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/61) |
 ---
