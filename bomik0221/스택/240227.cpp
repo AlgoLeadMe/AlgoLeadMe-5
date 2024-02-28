@@ -7,7 +7,6 @@ int main() {
 	std::stack<int>stack;
 
 	for (int num = 0; num < S.size(); num++) {
-		//if (num !=0 && S[num - 1] == '(' && S[num] == ')')	stack.pop();
 		if (!stack.empty() && stack.top() == 1 && S[num] == ')') stack.pop();
 		else {
 			if (S[num] == '(')	stack.push(1);
