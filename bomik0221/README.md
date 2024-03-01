@@ -17,5 +17,6 @@
 | 13차시 | 2024.02.06 |  DFS  | [유기농 배추](https://www.acmicpc.net/problem/1012)  | [#51](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/51) |
 | 14차시 | 2024.02.15 |  위상정렬  | [줄 세우기](https://www.acmicpc.net/problem/2252)  | [#57](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/57) |
 | 15차시 | 2024.02.18 |  위상정렬  | [문제집](https://www.acmicpc.net/problem/1766)  | [#60](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/60) |
+| 16차시 | 2024.02.24 |  DP  | [돌 게임](https://www.acmicpc.net/problem/9655)  | [#67](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/67) |
 ---
 
