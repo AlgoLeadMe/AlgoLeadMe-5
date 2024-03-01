@@ -16,7 +16,8 @@
 | 12차시 | 2024.02.03 |      DP       |      [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)      | [#12](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/47) |
 | 13차시 | 2024.02.06 | Back tracking |          [N과 M(9)](https://www.acmicpc.net/problem/15663)          | [#13](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/52) |
 | 14차시 | 2024.02.12 | KnapSack(DP)  |        [평범한 배낭](https://www.acmicpc.net/problem/12865)         | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/55) |
-| 15차시 | 2024.02.15 |      DFS      |         [트리의 지름](https://www.acmicpc.net/problem/1167)         | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/55) |
-| 16차시 | 2024.02.27 |      DP       |        [쉬운 계단 수](https://www.acmicpc.net/problem/10844)        | [#15](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/68) |
+| 15차시 | 2024.02.15 |      DFS      |         [트리의 지름](https://www.acmicpc.net/problem/1167)         | [#15](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/55) |
+| 16차시 | 2024.02.27 |      DP       |        [쉬운 계단 수](https://www.acmicpc.net/problem/10844)        | [#16](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/68) |
+| 17차시 | 2024.03.01 |      DP       |         [파도반 수열](https://www.acmicpc.net/problem/9461)         | [#17](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/68) |
 
 ---
