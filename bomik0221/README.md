@@ -19,5 +19,6 @@
 | 15차시 | 2024.02.18 |  위상정렬  | [문제집](https://www.acmicpc.net/problem/1766)  | [#60](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/60) |
 | 16차시 | 2024.02.24 |  DP  | [돌 게임](https://www.acmicpc.net/problem/9655)  | [#67](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/67) |
 | 17차시 | 2024.02.27 |  스택  | [괄호 끼워넣기](https://www.acmicpc.net/problem/11899)  | [#71](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/71) |
+| 18차시 | 2024.03.01 |  비트마스킹  | [거듭제곱](https://www.acmicpc.net/problem/1740)  | [#72](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/72) |
 ---
 
