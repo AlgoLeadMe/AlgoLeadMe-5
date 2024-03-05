@@ -20,4 +20,5 @@
 | 15차시 | 2024.02.15 |  DP, 큰 수 연산  | [타일링](https://www.acmicpc.net/problem/1793)  | [#56](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/56) |
 | 16차시 | 2024.02.18 |  수학  | [합](https://www.acmicpc.net/problem/1081)  | [#61](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/61) |
 | 17차시 | 2024.02.21 |  DP  | [제곱수의 합](https://www.acmicpc.net/problem/1699)  | [#64](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/64) |
+| 18차시 | 2024.02.24 |  이분 탐색  | [K번째 수](https://www.acmicpc.net/problem/1300)  | [#66](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/66) |
 ---
