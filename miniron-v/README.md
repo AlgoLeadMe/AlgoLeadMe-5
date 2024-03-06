@@ -21,4 +21,5 @@
 | 16차시 | 2024.02.18 |  수학  | [합](https://www.acmicpc.net/problem/1081)  | [#61](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/61) |
 | 17차시 | 2024.02.21 |  DP  | [제곱수의 합](https://www.acmicpc.net/problem/1699)  | [#64](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/64) |
 | 18차시 | 2024.02.24 |  이분 탐색  | [K번째 수](https://www.acmicpc.net/problem/1300)  | [#66](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/66) |
+| 19차시 | 2024.02.27 |  다익스트라  | [최단경로](https://www.acmicpc.net/problem/1753)  | [#70](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/70) |
 ---
