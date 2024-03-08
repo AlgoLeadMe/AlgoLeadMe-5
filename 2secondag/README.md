@@ -16,3 +16,5 @@
 | 12차시 | 2024.02.15 |  스택  | [스택] (https://www.acmicpc.net/problem/10828) | [#58](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/58)|
 | 13차시 | 2024.02.18 |  브루트포스  | [체스판 다시 칠하기] (https://www.acmicpc.net/problem/1018) | [#62](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/62)|
 | 14차시 | 2024.02.21 |  자료구조  | [수 찾기] (https://www.acmicpc.net/problem/1920) | [#63](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/63#issuecomment-1962366605)|
+| 15차시 | 2024.02.24 |  구현  | [요세푸스 문제] (https://www.acmicpc.net/problem/11866) | [#65](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/65)|
+| 16차시 | 2024.02.27 |  정렬  | [좌표 정렬하기] (https://www.acmicpc.net/problem/11650) | [#69](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/69#event-11998727922)|
