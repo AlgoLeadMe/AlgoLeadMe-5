@@ -19,5 +19,6 @@
 | 15차시 | 2024.02.15 |      DFS      |         [트리의 지름](https://www.acmicpc.net/problem/1167)         | [#15](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/55) |
 | 16차시 | 2024.02.27 |      DP       |        [쉬운 계단 수](https://www.acmicpc.net/problem/10844)        | [#16](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/68) |
 | 17차시 | 2024.03.01 |      DP       |         [파도반 수열](https://www.acmicpc.net/problem/9461)         | [#17](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/68) |
+| 18차시 | 2024.03.01 |     TEST      |            [TEST](https://www.acmicpc.net/problem/9461)             | [#17](https://github.com/AlgoLeadMe/AlgoLeadMe-5/pull/68) |
 
 ---
